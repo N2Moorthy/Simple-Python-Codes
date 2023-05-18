@@ -1,1 +1,13 @@
-{}
+{
+    "Login_try": {
+        "projectName": "Login_try",
+        "description": "sam",
+        "type": "community",
+        "author": "N2Moorthy",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/N2Moorthy/Simple-Python-Codes",
+        "githubUri": "https://github.com/N2Moorthy/Simple-Python-Codes",
+        "license": "MIT",
+        "lastUpdated": "1684403450912"
+    }
+}
