@@ -1,2 +1,1 @@
-# Simple-Python-Codes
-Python Exercise 
+### Agama Project Folder
